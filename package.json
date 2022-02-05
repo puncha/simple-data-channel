@@ -1,0 +1,22 @@
+{
+  "name": "simple-data-channel",
+  "version": "0.1.0",
+  "author": {
+    "name": "PunCha Feng",
+    "email": "puncha.info@gmail.com",
+    "url": "https://github.com/puncha"
+  },
+  "repository": {
+    "url": "https://github.com/puncha/simple-data-channel"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.4.4",
+    "vite": "^2.7.2"
+  }
+}
